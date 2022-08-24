@@ -1,0 +1,6 @@
+[submodule "cocotb-tilelink"]
+	path = cocotb-tilelink
+	url = ../tequila-tech-risc-v-core-for-ddr-controller-cocotb-tilelink
+[submodule "cocotb-ahb"]
+	path = cocotb-ahb
+	url = ../tequila-tech-risc-v-core-for-ddr-controller-cocotb-ahb
